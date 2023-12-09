@@ -14,7 +14,7 @@
 | 2.1     | Background          | [Link](chapter2/section2.1.md)         |
 | 2.2     | Conclusion          | [Link](chapter2/section2.2.md)         |
 
-# Chapter 32
+# Chapter 32 STL ALGORITHMS
 
 | Section | Title               | Link                                   |
 | ------- | ------------------- | -------------------------------------- |
