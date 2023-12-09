@@ -14,9 +14,9 @@
 | 2.1     | Background          | [Link](chapter2/section2.1.md)         |
 | 2.2     | Conclusion          | [Link](chapter2/section2.2.md)         |
 
-# Chapter 3
+# Chapter 32
 
 | Section | Title               | Link                                   |
 | ------- | ------------------- | -------------------------------------- |
-| 3.1     | Key Concepts        | [Link](chapter3/section3.1.md)         |
+| 32.4.1  | Key Concepts        | [Link](Projects/The C++ Programming Language/32/32.4.1/main.cpp) |
 | 3.2     | Summary             | [Link](chapter3/section3.2.md)         |
