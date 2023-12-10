@@ -19,4 +19,4 @@
 | Section | Title               | Link                                   |
 | ------- | ------------------- | -------------------------------------- |
 | 32.4.1  | for_each        | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.4.1/main.cpp) |
-| 3.2     | Summary             | [Link](chapter3/section3.2.md)         |
+| 32.5.3     | remove() and replace()             | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.5.3/main.cpp)         |
