@@ -1,22 +1,24 @@
-# The C++ Programming Language
+<details>
+  <summary><strong># The C++ Programming Language</strong></summary>
 
-## Chapter 1
+  ## Chapter 1
 
-| Section | Title               | Link                                   |
-| ------- | ------------------- | -------------------------------------- |
-| 1.1     | Introduction        | [Link](chapter1/section1.1.md)         |
-| 1.2     | Overview            | [Link](chapter1/section1.2.md)         |
+  | Section | Title               | Link                                   |
+  | ------- | ------------------- | -------------------------------------- |
+  | 1.1     | Introduction        | [Link](chapter1/section1.1.md)         |
+  | 1.2     | Overview            | [Link](chapter1/section1.2.md)         |
 
-## Chapter 2
+  ## Chapter 2
 
-| Section | Title               | Link                                   |
-| ------- | ------------------- | -------------------------------------- |
-| 2.1     | Background          | [Link](chapter2/section2.1.md)         |
-| 2.2     | Conclusion          | [Link](chapter2/section2.2.md)         |
+  | Section | Title               | Link                                   |
+  | ------- | ------------------- | -------------------------------------- |
+  | 2.1     | Background          | [Link](chapter2/section2.1.md)         |
+  | 2.2     | Conclusion          | [Link](chapter2/section2.2.md)         |
 
-# Chapter 32 STL ALGORITHMS
+  ## Chapter 32 STL ALGORITHMS
 
-| Section | Title               | Link                                   |
-| ------- | ------------------- | -------------------------------------- |
-| 32.4.1  | for_each        | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.4.1/main.cpp) |
-| 32.5.3     | remove() and replace()             | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.5.3/32.5.3.cpp)         |
+  | Section | Title               | Link                                   |
+  | ------- | ------------------- | -------------------------------------- |
+  | 32.4.1  | for_each            | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.4.1/main.cpp) |
+  | 32.5.3  | remove() and replace() | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.5.3/32.5.3.cpp)         |
+</details>
