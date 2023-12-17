@@ -38,20 +38,8 @@
   | ------- | ------------------- | ---------------------------------------------------------------------- |        
   | 33.2.2  | 33.2.2 Insert Iterators | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.2.2%20Insert%20Iterators/32.6.3.cpp) |
   | 33.4  | 33.4 Function Objects | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.4%20Function%20Objects/33.4.cpp) |
-  
-  <details>
-    <summary><strong>33.5.1 bind()</strong></summary>
-
-    [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.5.1%20bind()/33.5.1%20bind().cpp)
-
-  </details>
-
-  <details>
-    <summary><strong>33.5.2 mem_fn()</strong></summary>
-
-    [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.5.2%20mem_fn()/33.5.2%20mem_fn().cpp)
-
-  </details>
+  | 33.5.1  | 33.5.1 bind() | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.5.1%20bind()/33.5.1%20bind().cpp) |
+  | 33.5.2   | 33.5.2 mem_fn() | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.5.2%20mem_fn()/33.5.2%20mem_fn().cpp) |
 
   <details>
     <summary><strong>33.5.3 function</strong></summary>
@@ -59,6 +47,9 @@
     [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/33/33.5.3%20function/33.5.3%20function.cpp)
 
   </details>
+
+</details>
+
 
 </details>
 
