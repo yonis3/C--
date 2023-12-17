@@ -1,17 +1,27 @@
 #include <iostream>
 #include <functional>
+#include <vector>
+#include <algorithm>
 
-// A function that takes three arguments
-void printValues(int a, double b, std::string c) {
-    std::cout << "Values: " << a << ", " << b << ", " << c << std::endl;
+class Shape {
+public:
+    void draw() const {
+        std::cout << "Drawing a shape\n";
+    }
+};
+
+void draw_all(const std::vector<Shape*>& shapes) {
+    std::for_each(shapes.begin(), shapes.end(), std::mem_fn(&Shape::draw));
 }
 
 int main() {
-    // Using std::bind to create a function adaptor
-    auto adaptor = std::bind(printValues, 42, std::placeholders::_1, "Hello");
+    std::vector<Shape*> shapes = {new Shape(), new Shape(), new Shape()};
+    draw_all(shapes);
 
-    // Calling the adapted function with a double argument
-    adaptor(3.14);
+    // Don't forget to clean up the dynamically allocated objects
+    for (auto shape : shapes) {
+        delete shape;
+    }
 
     return 0;
 }
