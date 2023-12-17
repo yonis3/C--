@@ -2,7 +2,7 @@
 #include <functional>
 #include <cmath>
 
-int round(double x) {
+int my_round(double x) {
     return static_cast<int>(floor(x + 0.5));
 }
 
@@ -19,15 +19,15 @@ struct Round {
 };
 
 int main() {
-    // Using the provided round function directly
+    // Using the provided my_round function directly
     double value = 7.8;
-    int result = round(value);
-    std::cout << "Direct round function result: " << result << std::endl;
+    int result = my_round(value);
+    std::cout << "Direct my_round function result: " << result << std::endl;
 
-    // Using std::function to hold the round function
-    std::function<int(double)> f = round;
+    // Using std::function to hold the my_round function
+    std::function<int(double)> f = my_round;
     result = f(value);
-    std::cout << "std::function with round function result: " << result << std::endl;
+    std::cout << "std::function with my_round function result: " << result << std::endl;
 
     // Using the Round function object directly
     Round roundObject(Round_style::round);
