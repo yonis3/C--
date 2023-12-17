@@ -37,5 +37,20 @@
 
 </details>
 
+<details>
+  <summary><strong>Chapter 33: STL Iterators</strong></summary>
+
+  | Section | Title               | Link                                                                   |
+  | ------- | ------------------- | ---------------------------------------------------------------------- |        
+  | 33.2.2  | 33.2.2 Insert Iterators | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.2.2%20Insert%20Iterators/32.6.3.cpp) |
+  | 33.4  | 33.4 Function Objects | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.4%20Function%20Objects/33.4.cpp) |
+  | 33.5.1  | 33.5.1 bind() | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.5.1%20bind()/33.5.1%20bind().cpp) |
+
+ 
+  
+
+
+</details>
+
 
 </details>
