@@ -26,7 +26,7 @@
   | 32.4.1  | for_each            | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.4.1/main.cpp) |
   | 32.5.3  | remove() and replace() | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.5.3/32.5.3.cpp)         |
   | 32.6.3  | 32.6.3 Set Algorithms | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.6.3/32.6.3.cpp)         |
-  | 32.6.4  | 32.6.4 Heaps | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/32.6.4/32.6.4.cpp)         |
+  | 32.6.4  | 32.6.4 Heaps | [Link](https://github.com/yonis3/C--/blob/main/Projects/The%20C%2B%2B%20Programming%20Language/32/33.5.2%20mem_fn()/33.5.2%20mem_fn().cpp)         |
   
 
 </details>
