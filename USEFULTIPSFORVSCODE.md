@@ -10,7 +10,7 @@ Check out this helpful video for tips on customizing Visual Studio Code: [VS Cod
 4. Winter is Coming
 
 ## Good Fonts Extensions for VS Code
-1. Cascadia Code (Link)
+1. Cascadia Code 
 
 ## Other Good Extensions
 - Advanced New File: "Create files anywhere in your workspace from the keyboard"
