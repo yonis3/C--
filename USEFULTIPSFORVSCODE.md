@@ -14,4 +14,4 @@ Check out this helpful video for tips on customizing Visual Studio Code: [VS Cod
 
 ## Other Good Extensions
 1. Advanced New File: "Create files anywhere in your workspace from the keyboard"
-2.CODY AI "Cody is a coding AI assistant" [Good Link](https://www.youtube.com/watch?v=TALwI3J4asY&t=174s)
+2. CODY AI "Cody is a coding AI assistant" [Good Link](https://www.youtube.com/watch?v=TALwI3J4asY&t=174s)
